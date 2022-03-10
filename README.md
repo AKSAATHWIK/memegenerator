@@ -65,4 +65,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 9. # This is the complete package of the Project.
 
-10. # If you want to check out my website.....You can check it here-
